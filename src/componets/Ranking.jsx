@@ -4,7 +4,7 @@ import SRank from '../assets/sRank.png'
 import ARank from '../assets/aRank.png'
 import BRank from '../assets/bRank.png'
 import CRank from '../assets/cRank.png'
-import Crown from '../assets/Crown.png'
+import Crown from '../assets/crown.png'
 
 
 const Ranking = ({ users }) => {
