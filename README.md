@@ -16,6 +16,7 @@
 * React
 * Bootstrap
 * Recharts.js
+* typed.js
 * Firebase
 * Vite
 * vercel 
